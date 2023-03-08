@@ -17,6 +17,10 @@ After forking the repo, your site will be live immediately on your personal Gith
 
 Make sure GitHub Pages is enabled for your repo. It might take some time for the site to propagate entirely.
 
+
+## Doc
+
+[Doc](https://docs.themefisher.com/kross/)
 ## Customize
 
 Things you can customize in `_data/settings.yml` (no HTML/CSS):
