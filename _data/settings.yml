@@ -12,10 +12,10 @@ address: 125/A, CA Commercial Area, California, USA
 copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 
 menu:
-  - { name: About, link: "/about" }
-  - { name: Blog, link: "/blog" }
-  - { name: Portfolio, link: "/portfolio" }
-  - { name: Contact, link: "/contact" }
+  - { name: 关于我们, link: "/about" }
+  - { name: 申请案例, link: "/blog" }
+  - { name: 团队成员, link: "/portfolio" }
+  - { name: 联系我们, link: "/contact" }
 
 #-------------------------------
 # Google Analytics Section
@@ -48,10 +48,10 @@ social:
 # About (Section and Page)
 
 # About Section
-blurb: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+blurb: Transcoder 是由浙江大学竺可桢学院创新与创业管理强化班(ITP)孵化的创业团队, 定位于世界顶尖名校的计算机,电子工程,商科申请的留学咨询机构和个人发展平台。
 
 blurb-btn-link: "/about"
-blurb-btn-name: know more
+blurb-btn-name: 了解更多
 
 # About Page
 
@@ -71,17 +71,20 @@ work-process:
 
 # My Team Section
 team:
-  - title: "Jack Schenziwe"
+  - title: "Fazzie - (马千里)"
     image: "assets/images/team/member-1.png"
-    designation: "Project Manager"
+    designation: "创始人"
+    link: "https://fazzie-key.cool/about/index.html"
 
-  - title: "Julias Carlie"
+  - title: "GuoyaoLi - 李国耀"
     image: "assets/images/team/member-2.png"
-    designation: "Web Developer"
+    designation: "联合创始人"
+    link: "https://guoyaoli.com/"
 
-  - title: "John Doe"
+  - title: "LPoohy"
     image: "assets/images/team/member-3.png"
-    designation: "Designer"
+    designation: "联合创始人"
+    link: ""
 
 #-------------------------------
 # Skills Section
