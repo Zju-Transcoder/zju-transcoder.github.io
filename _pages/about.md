@@ -2,7 +2,7 @@
 layout: about
 title: 关于我们
 author: Fazzie
-image: assets/images/about/author.jpg
+image: assets/images/about/author-1.jpg
 signature: assets/images/about/signature.png
 ---
 
