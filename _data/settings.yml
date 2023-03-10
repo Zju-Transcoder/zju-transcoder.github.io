@@ -3,7 +3,7 @@
 # General Site Settings
 
 title: Transcoder
-logo:
+logo: "assets/images/logos.png"
 author: Fazzie
 description: this is meta description
 email: zjutranscoder@gmail.com

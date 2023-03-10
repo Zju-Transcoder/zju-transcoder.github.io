@@ -1,11 +1,14 @@
 <header class="navigation fixed-top">
   <nav class="navbar navbar-expand-lg navbar-dark">
     <a class="navbar-brand font-tertiary h3" href="{{ site.baseurl }}/">
-      {% if site.data.settings.logo %}
-        <img src="{{ site.data.settings.logo | absolute_url }}" alt="{{ site.data.settings.title }}">
-        {% else if %}
+        <img style="height: 100px;" src="{{ site.data.settings.logo | absolute_url }}" alt="{{ site.data.settings.title }}">
+    </a>
+    <a class="navbar-brand font-tertiary h3" href="{{ site.baseurl }}/">
+      <!-- {% if site.data.settings.logo %} -->
+        <!-- <img style="height: 10px;" src="{{ site.data.settings.logo | absolute_url }}" alt="{{ site.data.settings.title }}"> -->
+        <!-- {% else if %} -->
         <h3 class="text-white font-tertiary">{{site.data.settings.title}}</h3>
-      {% endif %}
+      <!-- {% endif %} -->
     </a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation"
       aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
