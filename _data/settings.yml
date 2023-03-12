@@ -71,13 +71,13 @@ blurb-btn-name: 了解更多
 
 # My Team Section
 team:
-  - title: "Fazzie - (马千里)"
-    image: "assets/images/team/member-1.png"
+  - title: "Fazzie Ma"
+    image: "assets/images/team/member-1.jpeg"
     designation: "创始人"
     link: "https://fazzie-key.cool/about/index.html"
 
-  - title: "GuoyaoLi - 李国耀"
-    image: "assets/images/team/member-2.png"
+  - title: "GuoyaoLi"
+    image: "assets/images/team/member-2.jpeg"
     designation: "联合创始人"
     link: "https://guoyaoli.com/"
 
