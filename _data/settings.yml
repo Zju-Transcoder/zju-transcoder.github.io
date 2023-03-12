@@ -48,7 +48,7 @@ hero:
 # About (Section and Page)
 
 # About Section
-blurb: Transcoder 是由浙江大学竺可桢学院创新与创业管理强化班(ITP)孵化的创业团队, 定位于世界顶尖名校的计算机,电子工程,商科申请的留学咨询机构和个人发展平台。
+blurb: Transcoder是由浙江大学竺可桢学院创新与创业管理强化班(ITP)孵化的创业团队。我们致力于以世界顶尖名校的计算机、电子工程和商科项目申请为目标的学子提供优质的留学咨询服务, 特别是为希望通过留学加入科技行业的同学提供支持和服务。我们的核心团队均来着浙江大学竺可桢学院, 亲身经历过22fall, 23fall留学申请, 并具有丰富的工业界背景和优秀的学术背景。我们期望打破申请中的信息差和解决传统中介和实际需求不匹配的痛点,以Mentor的方式为每个申请者提供全方位、个性化的服务。我们坚信,Transcoder的存在将为世界顶尖名校的申请者提供更多选择和机遇, 并帮助他们实现个人和职业发展的梦想。
 
 blurb-btn-link: "/about"
 blurb-btn-name: 了解更多
@@ -154,21 +154,22 @@ services:
   - {
       name: 选校定位,
       icon: ti-palette,
-      description: "针对顶级计算机,电子工程选校、选专业指导",
+      description: "Transcoder的选校定位服务针对顶级计算机、电子工程等专业申请者量身定制, 我们的团队对北美,新加坡,香港的的各个计算机相关项目有着深入了解,并在22fall拿到多个offer, 包含CMU, UCLA, NUS等世界名校。我们将根据申请者的目标和职业规划提供个性化的选校建议和全面的专业指导, 以帮助申请者选择最适合自己的学校和专业。",
       active: ,# Add true to select section
     }
   - {
-      name: 文书服务,
+      name: 文书简历服务,
       icon: ti-vector,
-      description: "从职场人和学术背景两个角度提供文书建立修改服务",
+      description: "我们将和申请者深入沟通, 和申请者一起头脑风暴, 充分挖掘申请者的经历, 闪光点, 以Native Speaker的标准提供文书润色服务, 以一线科技大厂,独角兽招聘的标准提供简历修改服务",
       active: true, # Add true to select section
     }
   - {
       name: 申请全流程指导,
       icon: ti-panel,
-      description: "为同学提供申请的总体策略和规划, 包括转专业,暑研, 实习",
+      description: "我们的团队将为同学们提供综合性的申请规划和策略，包括选校定位、申请时间、申请材料准备、面试准备等方面的指导。同时，我们也为同学们提供专业的转专业(特别是计算机方向)、暑研和实习指导服务，帮助同学们更好地规划和安排留学过程中的重要经历和活动，提高申请的成功率。",
       active: ,# Add true to select section
     }
+    
 
 #-------------------------------
 # Portfolio (Section and Page)
