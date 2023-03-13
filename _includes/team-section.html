@@ -8,14 +8,16 @@
       </div>
       {% for team-member in site.data.settings.team %}
       <div class="col-md-4 col-sm-6 mb-4 mb-md-0">
-        <div class="card text-center">
+        <div class="card text-center h-100">
           <img alt="teampotrait" src="{{ team-member.image | relative_url }}" class="card-img-top">
           <div class="card-body">
             <h4 class="card-title">{{ team-member.title }}</h4>
             <p class="text-light font-secondary">{{ team-member.designation }}</p>
             <p class="text-light font-secondary">{{ team-member.detail }}</p>
-            <a class="btn btn-secondary btn-s" href="{{ team-member.link }}">个人主页</a>
-            <!-- <a href="{{ team-member.link }}" class="text-light mr-2"><p>个人主页</p></a> -->
+            <!-- <a class="btn btn-secondary btn-s fixed-bottom" href="{{ team-member.link }}">个人主页</a> -->
+          </div>
+          <div class="card-footer">
+            <a class="btn btn-secondary btn-s fixed-bottom" href="{{ team-member.link }}">个人主页</a>
           </div>
         </div>
       </div>
