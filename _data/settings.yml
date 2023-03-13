@@ -72,18 +72,21 @@ blurb-btn-name: 了解更多
 # My Team Section
 team:
   - title: "Fazzie Ma"
-    image: "assets/images/team/member-1.jpeg"
+    image: "assets/images/team/member-4.png"
     designation: "创始人"
+    detail: "毕业于浙江大学信电系香农班和竺可桢学院创新创业强化班, 有转专业到EE, 自学AI并跨专业申请CS得经历, 并先后曾在大厂, AI独角兽, AI startup工作, 有丰富的工业界经验和跨专业转型CS经验,参与多个知名AI开源项目"
     link: "https://fazzie-key.cool/about/index.html"
 
   - title: "GuoyaoLi"
-    image: "assets/images/team/member-2.jpeg"
+    image: "assets/images/team/member-2.png"
     designation: "联合创始人"
+    detail: "毕业于浙江大学竺可桢学院混合班和创新创业强化班, 专业top5%, 22fall拿到CMU等顶级CS项目offer, 有Big name工作经验和海外顶级实验室研究经历, 目前是CMU机器学习编译器Apache TVM团队一员"
     link: "https://guoyaoli.com/"
 
   - title: "LPoohy"
-    image: "assets/images/team/member-3.jpg"
+    image: "assets/images/team/member-3.png"
     designation: "联合创始人"
+    detail: ”“
     link: ""
 
 #-------------------------------
