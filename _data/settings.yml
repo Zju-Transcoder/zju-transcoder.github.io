@@ -74,19 +74,19 @@ team:
   - title: "Fazzie Ma"
     image: "assets/images/team/member-4.png"
     designation: "创始人"
-    detail: "毕业于浙江大学信电系香农班和竺可桢学院创新创业强化班, 有转专业到EE, 自学AI并跨专业申请CS得经历, 并先后曾在大厂, AI独角兽, AI startup工作, 有丰富的工业界经验和跨专业转型CS经验,参与多个知名AI开源项目"
+    detail: "毕业于浙江大学信电系香农班和竺可桢学院创新创业强化班, 有转专业到EE, 自学AI并跨专业申请CS得经历, 并先后曾在大厂(华为2012), AI独角兽(Sensetime), AI startup(ColossalAI)工作, 有丰富的工业界经验和跨专业转型CS经验,参与多个知名AI开源项目"
     link: "https://fazzie-key.cool/about/index.html"
 
   - title: "GuoyaoLi"
     image: "assets/images/team/member-2.png"
     designation: "联合创始人"
-    detail: "毕业于浙江大学竺可桢学院混合班和创新创业强化班, 专业top5%, 22fall拿到CMU等顶级CS项目offer, 有Big name工作经验和海外顶级实验室研究经历, 目前是CMU机器学习编译器Apache TVM团队一员"
+    detail: "毕业于浙江大学竺可桢学院混合班和创新创业强化班, 专业top5%, 22fall拿到CMU等顶级CS项目offer, 有Big name(Intel中国)工作经验和海外顶级实验室研究经历, 目前是CMU机器学习编译器Apache TVM团队一员"
     link: "https://guoyaoli.com/"
 
-  - title: "LPoohy"
+  - title: "LPoohy 李布林"
     image: "assets/images/team/member-3.png"
     designation: "联合创始人"
-    detail: ”“
+    detail: "毕业于竺可桢学院人文社科实验班, 主修哲学, 辅修物理学。牛津大学Mansfield College哲学专业交换生, 北京大学光华管理学院数字经济青年人才学员, 晨兴文化中国人才计划成员。逻辑学会议两篇一作论文发表, 主要研究反向为论辩、因果推断、人工智能逻辑。23fall将赴CMU修读Logic, Computation and Methodology"
     link: ""
 
 #-------------------------------

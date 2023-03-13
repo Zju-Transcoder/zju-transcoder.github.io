@@ -25,6 +25,11 @@
     padding: 10px 30px;
   }
 
+  &-s {
+    font-size: 15px;
+    padding: 5px 30px;
+  }
+
   &-xs {
     padding: 5px 10px;
     font-size: 15px;
@@ -32,6 +37,25 @@
 }
 
 .btn-primary {
+  background: $primary-color;
+  color: $white;
+
+  &:active {
+    background: lighten($color: $primary-color, $amount: 10) !important;
+  }
+
+  &:hover {
+    background: lighten($color: $primary-color, $amount: 10);
+  }
+
+  &.focus,
+  &.active {
+    background: lighten($color: $primary-color, $amount: 10) !important;
+    box-shadow: none !important;
+  }
+}
+
+.btn-secondary {
   background: $primary-color;
   color: $white;
 
