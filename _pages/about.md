@@ -1,7 +1,7 @@
 ---
 layout: about
 title: 关于我们
-author: Fazzie
+author: 创始人-Fazzie
 image: assets/images/about/logos.png
 signature: Logo  #assets/images/about/signature.png
 ---
